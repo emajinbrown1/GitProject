@@ -22,6 +22,13 @@ break.
 
 > This is the end of the block quote
 
+**Bolded**
+
+*Italized*
+
+~~Crazy~~
+
+---
 
 + 1
 + 2
